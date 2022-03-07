@@ -1,8 +1,8 @@
-import { Navbar } from './components/Navbar';
+import { RoutesApp } from 'routes';
 
 function App() {
   return (
-    <Navbar />
+    <RoutesApp />
   );
 }
 
