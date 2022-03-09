@@ -1,1 +1,6 @@
+com/devsuperior/dsmovie/entities/User.class
 com/devsuperior/dsmovie/DsmovieApplication.class
+com/devsuperior/dsmovie/entities/Score.class
+com/devsuperior/dsmovie/config/SecurityConfig.class
+com/devsuperior/dsmovie/entities/ScorePK.class
+com/devsuperior/dsmovie/entities/Movie.class
