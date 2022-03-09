@@ -1,6 +1,10 @@
+/home/gsantos3/uol/workspace/testes/dsmovie/backend/src/main/java/com/devsuperior/dsmovie/services/MovieService.java
 /home/gsantos3/uol/workspace/testes/dsmovie/backend/src/main/java/com/devsuperior/dsmovie/entities/Score.java
 /home/gsantos3/uol/workspace/testes/dsmovie/backend/src/main/java/com/devsuperior/dsmovie/entities/ScorePK.java
 /home/gsantos3/uol/workspace/testes/dsmovie/backend/src/main/java/com/devsuperior/dsmovie/entities/Movie.java
+/home/gsantos3/uol/workspace/testes/dsmovie/backend/src/main/java/com/devsuperior/dsmovie/controllers/MovieController.java
 /home/gsantos3/uol/workspace/testes/dsmovie/backend/src/main/java/com/devsuperior/dsmovie/DsmovieApplication.java
 /home/gsantos3/uol/workspace/testes/dsmovie/backend/src/main/java/com/devsuperior/dsmovie/config/SecurityConfig.java
 /home/gsantos3/uol/workspace/testes/dsmovie/backend/src/main/java/com/devsuperior/dsmovie/entities/User.java
+/home/gsantos3/uol/workspace/testes/dsmovie/backend/src/main/java/com/devsuperior/dsmovie/dto/MovieDTO.java
+/home/gsantos3/uol/workspace/testes/dsmovie/backend/src/main/java/com/devsuperior/dsmovie/repositories/MovieRepository.java
