@@ -1,0 +1,5 @@
+*.jar
+*.jar.original
+
+maven-status/
+surfire-reports/
